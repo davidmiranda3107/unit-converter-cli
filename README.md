@@ -42,7 +42,7 @@ Run the program:
 
 ```bash
 mvn clean install
-mvn exec:java -Dexec.mainClass="com.david.unitconverter.Main"
+mvn exec:java -Dexec.mainClass="com.david.Main"
 ```
 
 ## Dependencies
